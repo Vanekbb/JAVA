@@ -6,7 +6,6 @@ package task03;
 //должны быть отличны от заданного, а остальные - равны ему.
 
 import java.util.Arrays;
-import java.util.Random;
 
 public class SortNums {
     public static void main(String[] args) {
